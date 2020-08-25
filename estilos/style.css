@@ -21,10 +21,37 @@ h3{
 }
 
 #nome {
-    color: #E5EEEF
+    
 }
 
 .destaque {
     color: #FF1053;
     font-weight: bold;
+}
+
+#nomePortfolio {
+    color: #E5EEEF;
+    width: 50%;
+    margin: auto;
+}
+
+#navegador ul{
+    
+    margin: auto;
+    text-align: center;
+}
+
+
+#navegador li{
+    list-style-type: none;
+    background-color: #141B41;
+    display: inline-block;
+    padding: 10px;
+    margin: 30px;
+    font-weight: bold;
+}
+
+#navegador li a:visited {
+    color: white;
+    
 }
